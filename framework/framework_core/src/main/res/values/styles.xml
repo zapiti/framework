@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="BaseThemeSankhya" parent="Theme.MaterialComponents.DayNight">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimarySankhya</item>
+        <item name="colorAccent">@color/colorPrimarySankhya</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <style name="BaseThemeJiva" parent="Theme.MaterialComponents.DayNight">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimaryJiva</item>
+        <item name="colorAccent">@color/colorPrimaryJiva</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+    <style name="AppThemeSankhya" parent="BaseThemeSankhya">
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSankhya</item>
+    </style>
+
+    <style name="AppThemeJiva" parent="BaseThemeJiva">
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkJiva</item>
+    </style>
+
+    <style name="LoginThemeSankhya" parent="BaseThemeSankhya">
+        <item name="colorPrimaryDark">@color/colorPrimarySankhya</item>
+    </style>
+
+    <style name="LoginThemeJiva" parent="BaseThemeJiva">
+        <item name="colorPrimaryDark">@color/colorPrimaryJiva</item>
+    </style>
+
+    <style name="SplashThemeSankhya" parent="LoginThemeSankhya">
+        <item name="android:windowBackground">@drawable/splash_sankhya</item>
+
+    </style>
+
+    <style name="SplashThemeJiva" parent="LoginThemeJiva">
+        <item name="android:windowBackground">@drawable/splash_jiva</item>
+    </style>
+
+
+</resources>

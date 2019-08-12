@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDarkSankhya">#165327</color>
+    <color name="colorPrimaryDarkJiva">#EF5F1D</color>
+    <color name="colorPrimarySankhya">#1E6533</color>
+    <color name="colorSilver">#cbcbcb</color>
+    <color name="colorPrimaryJiva">#f37227</color>
+    <color name="colorAccentSankhya">#ACC435</color>
+    <color name="colorAccentJiva">#f04923</color>
+    <color name="colorGray">#B3B3B3</color>
+    <color name="colorGrayLight">#e7e7e7</color>
+    <color name="colorGraySelectionDark">#626063</color>
+    <color name="colorGraySelection">#767477</color>
+    <color name="silver">#C0C0C0</color>
+    <!--shimmer-->
+    <color name="demo_light_transparent">#16000000</color>
+    <color name="demo_dark_transparent">#24000000</color>
+    <color name="shimmer_color">#a2878787</color>
+    <color name="gelo">#e6e6e6</color>
+    <color name="shimmer_background_color">#b1b1b1</color>
+    <color name="white_bg">#FFFAFAFA</color>
+</resources>
